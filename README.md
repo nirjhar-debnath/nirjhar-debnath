@@ -1,6 +1,8 @@
-# Nirjhar 🔭 
+
 
 <!--
+# Nirjhar 🔭 
+![a building](https://github.com/zackkrida/zackkrida/raw/master/44650035.jpg)
 **Nirjhar100/Nirjhar100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
